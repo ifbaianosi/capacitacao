@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:eercase="eercase" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation">
+  <eercase:Schema xmi:id="_j4QukDe9Eea0Mff_nMB_AQ"/>
+  <notation:Diagram xmi:id="_j4pJEDe9Eea0Mff_nMB_AQ" type="Eercase" element="_j4QukDe9Eea0Mff_nMB_AQ" name="capacitacao.eercase" measurementUnit="Pixel">
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_j4pJETe9Eea0Mff_nMB_AQ"/>
+  </notation:Diagram>
+</xmi:XMI>
